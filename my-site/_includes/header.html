@@ -4,8 +4,9 @@
 			<ul>
 				{% for page in site.pages %} {% if page.title %}
 				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+				
 				{% endif %} {% endfor %}
-				<li><a href="{{ "/Updates" | prepend: site.baseurl }}">Updates</a></li>
+				<li><a href="{{ "/News" | prepend: site.baseurl }}">News</a></li>
 			</ul>
 			</li>
 			</ul>
