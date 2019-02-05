@@ -1,7 +1,7 @@
 ---
 
 layout: calendar  # required
-title: My Calendar
+title: Events
 
 calendar_timezone_offset: -0800   # required
 calendar_csv: example/events.csv  # required. Path to CSV file from base url
