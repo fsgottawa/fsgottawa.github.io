@@ -13,5 +13,3 @@ FSG calendar
 
 test
 test
-rtest
-test
