@@ -1,15 +1,6 @@
 ---
-layout: calendar  # required
+layout: default  # required
 title: My Calendar
-
-calendar_timezone_offset: -0800   # required
-calendar_csv: /example/events.csv  # required. Path from base url
-
-calendar_focus_date: 2016-01-06   # optional. YYYY-MM-DD. Without it, the default is today
-calendar_caption: My calendar caption   # optional
+weight: 98
 ---
-
-FSG calendar
-
-test
-test
+<iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;ctz=America%2FToronto" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
