@@ -6,9 +6,9 @@ comments: true
 
 **Friendship Support Group (FSG)**
 
-The Ottawa Friendship Support Group (FSG) is a peer support group for individuals with mental illness. Ative for 27 years, FSG strive to be a place for social interaction and engagement in recreational/educational activities for all members. Volunteers provide a caring and empathetic environment during the weekly meetings every Wednesday at the Carlington Community Health Centre, 900 Merivale Road, Ottawa. 
+The Ottawa Friendship Support Group (FSG) is a peer support group for individuals with mental illness. Active for 27 years, FSG strives to be a place for social interaction and engagement in recreational/educational activities for all members. Volunteers provide a caring and empathetic environment during the weekly meetings every Wednesday at the Carlington Community Health Centre, 900 Merivale Road, Ottawa. 
 
-The Friendship Support Group (FSG) program is funded in part by a grant from the Ottawa Community Foundation www.ocf-fco.ca.
+The Friendship Support Group (FSG) program is funded in part by a grant from the [Ottawa Community Foundation ](www.ocf-fco.ca)
 
 **Events**
 
