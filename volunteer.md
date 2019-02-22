@@ -4,8 +4,6 @@ title: Volunteer
 comments: true
 ---
 
-**Interested in volunteering?**
-
 Want to get involved with FSG? We're always looking for volunteers to help in two key ways:
 
 **Workshop volunteer**
