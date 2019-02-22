@@ -8,7 +8,7 @@ comments: true
 
 Want to get involved with FSG? We're always looking for volunteers to help in two key ways:
 
-**Workshop volunteer **
+**Workshop volunteer**
 
 Workshops are key activity at FSG meetings. Have something you want to share? We've had workshops ranging form --- to --- so if there's something you're passionate about send us a message at -----. We would love to hear your idea!
 
