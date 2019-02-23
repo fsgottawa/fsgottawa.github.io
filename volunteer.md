@@ -16,5 +16,5 @@ Volunteers at our weekly group meetings are key to running FSG. Volunteers at th
 
 *Sound like something for you?*
 
-[Send us an email]({{site.baseurl}}/about) with an introduction to yourself, and your area of interest.
+[Send us an email]({{site.baseurl}}/contact) with an introduction to yourself, and your area of interest.
 
