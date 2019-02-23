@@ -14,7 +14,7 @@ The Friendship Support Group (FSG) program is funded in part by a grant from the
 
 **Events**
 
-FSG events range from dinner nights (once a month), speakers, craft making, movie nights, and outings to events such as Winterlude and Jacques Cartier Park.
+Friendship Support Group (FSG) events range from dinner nights (once a month), speakers, craft making, movie nights, and outings such as Winterlude and Jacques Cartier Park.
 
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/theme4.jpg)
 *Annual trip to Jean-Cartier Parc*
