@@ -8,9 +8,8 @@ background: '/img/posts/01.jpg'
 
 <p>Another great christmas party for the mental ilness caregivers association (MICA)</p>
 
-<h2 class="section-heading">The Final Frontier</h2>
+<p>This time of year, we are thankful for friends and the caring community we have.</p>
 
-<p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
-
-![jekyll template mediumish]({{site.baseurl}}/assets/images/theme4.jpg)
+![jekyll template mediumish]({{site.baseurl}}/assets/images/christmas.jpg)
+*FSG volunteers Sara and Crystal hard at work!*
 
