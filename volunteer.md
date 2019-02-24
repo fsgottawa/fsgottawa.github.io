@@ -14,7 +14,7 @@ Workshops are major part of FSG meetings. Have something you want to share? We'v
 
 Volunteers at our weekly group meetings are key to running FSG. Volunteers at the weekly meeting get to know and connect with FSG attendees, creating an environment where everyone feels welcome.
 
-*Sound like something for you?*
+*Sounds like something for you?*
 
 [Send us an email]({{site.baseurl}}/contact) with an introduction to yourself, and your area of interest.
 
