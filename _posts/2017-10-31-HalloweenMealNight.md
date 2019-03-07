@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Annual Christmas Party"
-subtitle: ""
-date:   2018-11-30 
+title:  "Fall Meal Night"
+subtitle: "so much pumpkin!"
+date:   2018-10-31
 background: '/img/posts/01.jpg'
 ---
 
