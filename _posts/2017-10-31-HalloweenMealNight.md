@@ -7,3 +7,4 @@ background: '/img/posts/01.jpg'
 ---
 Great meal night this fall, so much pumpkin!
 ![jekyll template mediumish]({{site.baseurl}}/assets/images/pumpkins.jpg)
+*Monthly meal night*
