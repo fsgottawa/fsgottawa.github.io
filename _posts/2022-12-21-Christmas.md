@@ -3,7 +3,7 @@ layout: post
 title:  "Chistmas party!"
 subtitle: "Food, games, and prizes"
 date:   2022-12-21 
-background: '/img/posts/christmas1.jpg'
+background: '/img/posts/01.jpg'
 ---
 
 <p>This christmas we had some delicious food, played games, and shared gifts</p
